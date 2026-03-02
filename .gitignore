@@ -1,0 +1,41 @@
+# Data & Models
+USOD10KK/
+USOD10k 2/
+checkpoint/
+pretrained/
+*.pth
+*.pt
+*.pkl
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.autodl/
+
+# Logs & Results
+runs/
+*.log
+*.txt
+Evaluation/
+STAMF-main/STAMF/preds_manual/
+STAMF-main/STAMF/vis_results/
+preds/
+
+# Packages
+*.whl
+*.zip
+*.tar.gz
+DFM-Net/
+Semi-UIR-master/
+SemiUIRHiDA/
+TinyViM-main/
+Vim-files/
+causal-conv1d/
+
+# PDFs
+*.pdf
